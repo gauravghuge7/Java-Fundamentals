@@ -1,0 +1,17 @@
+class gaurav {
+	public static void main(String args[]) {
+		int i,j,n;
+		char ch[] = ch[];
+		Scanner scan = new Scanner(System.in);
+		char ch[] = scan.next();
+		
+		for (i=0; i<6; i++) {
+			System.out.println();
+			
+			for (j=0; j<=i; j++); {
+				System.out.print(ch[i]+"  ");
+			}
+		}
+	}
+}
+			 
