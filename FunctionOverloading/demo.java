@@ -10,10 +10,13 @@ class first {
 
 }
 
+
 class demo {
     public static void main(String args[]) {
         first f = new first();
         f.demo(5);
         f.demo(10,20);
+        
     }
 }
+

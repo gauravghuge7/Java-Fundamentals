@@ -6,6 +6,9 @@ interface garry {
 
 class demoInterface implements garry {
 
+
+
+
     public void accept() {
 
         int a = 15;
